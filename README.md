@@ -13,17 +13,11 @@ Feel free to reach out and connect with me! I'm always open to discussing new id
 ![](https://github-readme-streak-stats.herokuapp.com/?user=helloanjalig&theme=algolia&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=helloanjalig&theme=algolia&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=helloanjalig&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=helloanjaliig)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
 ---
-![Profile views counter](https://komarev.com/ghpvc/?username=helloanjalig&&style=flat-square)  
+![Profile views counter](https://komarev.com/ghpvc/?username=MrSilog&&style=flat-square)  
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
